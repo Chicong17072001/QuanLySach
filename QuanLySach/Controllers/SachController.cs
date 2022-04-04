@@ -9,6 +9,7 @@ namespace QuanLySach.Controllers
 {
     public class SachController : ApiController
     {
+        //Nop bai 04/04/2022
         Sach[] sachs = new Sach[]
         {
         new Sach { Id = 1, Title = "Tôi thấy hoa vàng trên cỏ xanh", AuthorName =
